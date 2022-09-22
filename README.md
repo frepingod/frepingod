@@ -1,4 +1,4 @@
 # Hi there 👋
 ## Welcome to my Github Profile
 
-<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/pAtqIVldg4J5Q2QXlV/giphy.gif" width="500">

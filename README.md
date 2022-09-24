@@ -9,6 +9,5 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/frepingod">
   <img height="500em" src="https://media.giphy.com/media/pAtqIVldg4J5Q2QXlV/giphy.gif"/>
 </div>

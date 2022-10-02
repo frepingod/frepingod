@@ -7,7 +7,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=frepingod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=frepingod&theme=dracula"/>
 </div>
-
-<div align="center">
-  <img height="500em" src="https://media.giphy.com/media/pAtqIVldg4J5Q2QXlV/giphy.gif"/>
-</div>

@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frepingod&label=Profile%20views&color=0e75b6&style=flat" alt="frepingod" /> </p>
 
-<p align="center">
-  <img src="https://github.com/frepingod/frepingod/blob/main/sword.gif" alt="animated" />
-</p>
+![Snake animation](https://github.com/frepingod/frepingod/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/frepingod">
